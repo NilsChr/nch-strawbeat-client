@@ -18,7 +18,7 @@ import { watch } from "vue";
 
 const accessToken = 'pk.eyJ1Ijoibmlsc2NociIsImEiOiJja3kwZGJoa3QwMGtlMm9udjRod2Zocm10In0.Zinp_gFu9BXjcLi4vwWH_Q';
 
-const styleURL = "mapbox://styles/nilschr/clv49xvhe00he01qp1ih1g4j3"; //"mapbox://styles/nilschr/clv49fpif00h401qr7owk7ubw"; // mapbox://styles/nilschr/clv49xvhe00he01qp1ih1g4j3
+const styleURL = "mapbox://styles/nilschr/clvcszop200yz01ocf5tsbwnh"//"mapbox://styles/nilschr/clv49xvhe00he01qp1ih1g4j3"; //"mapbox://styles/nilschr/clv49fpif00h401qr7owk7ubw"; // mapbox://styles/nilschr/clv49xvhe00he01qp1ih1g4j3
 
 //const markers = ref<{id: number, coords: number[]}[]>([])
 const store = useMainStore();
