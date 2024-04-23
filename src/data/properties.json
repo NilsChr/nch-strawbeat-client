@@ -1,0 +1,858 @@
+[
+  {
+      "title": "Comfort Hotel Vesterbro",
+      "propertyCode": "DK032"
+  },
+  {
+      "title": "Clarion Hotel Copenhagen Airport",
+      "propertyCode": "DK034"
+  },
+  {
+      "title": "Villa Copenhagen",
+      "propertyCode": "DK035"
+  },
+  {
+      "title": "Comfort Hotel Copenhagen Airport",
+      "propertyCode": "DK036"
+  },
+  {
+      "title": "Clarion Hotel Helsinki",
+      "propertyCode": "FI016"
+  },
+  {
+      "title": "Clarion Hotel Aviapolis",
+      "propertyCode": "FI017"
+  },
+  {
+      "title": "Hotel F6",
+      "propertyCode": "FI018"
+  },
+  {
+      "title": "Hotel Fabian",
+      "propertyCode": "FI019"
+  },
+  {
+      "title": "GLO Hotel Airport",
+      "propertyCode": "FI020"
+  },
+  {
+      "title": "GLO Hotel Art",
+      "propertyCode": "FI021"
+  },
+  {
+      "title": "Hobo Helsinki",
+      "propertyCode": "FI022"
+  },
+  {
+      "title": "GLO Hotel Sello",
+      "propertyCode": "FI023"
+  },
+  {
+      "title": "Hotel Haven",
+      "propertyCode": "FI024"
+  },
+  {
+      "title": "Hotel Lilla Roberts",
+      "propertyCode": "FI025"
+  },
+  {
+      "title": "Hotel Klaus K",
+      "propertyCode": "FI026"
+  },
+  {
+      "title": "Hotel Kämp",
+      "propertyCode": "FI901"
+  },
+  {
+      "title": "Hotel St. George",
+      "propertyCode": "FI902"
+  },
+  {
+      "title": "Comfort Hotel LT",
+      "propertyCode": "LT003"
+  },
+  {
+      "title": "Quality Hotel Panorama",
+      "propertyCode": "NO001"
+  },
+  {
+      "title": "Quality Airport Hotel Værnes",
+      "propertyCode": "NO002"
+  },
+  {
+      "title": "Quality Hotel Entry",
+      "propertyCode": "NO003"
+  },
+  {
+      "title": "Comfort Hotel Bergen",
+      "propertyCode": "NO013"
+  },
+  {
+      "title": "Quality Airport Hotel Gardermoen",
+      "propertyCode": "NO014"
+  },
+  {
+      "title": "Quality Airport Hotel Stavanger",
+      "propertyCode": "NO015"
+  },
+  {
+      "title": "Quality Hotel Augustin",
+      "propertyCode": "NO017"
+  },
+  {
+      "title": "Quality Hotel Residence ",
+      "propertyCode": "NO019"
+  },
+  {
+      "title": "Comfort Hotel Børsparken",
+      "propertyCode": "NO020"
+  },
+  {
+      "title": "Quality Hotel Edvard Grieg ",
+      "propertyCode": "NO023"
+  },
+  {
+      "title": "Hotel Brosundet",
+      "propertyCode": "NO024"
+  },
+  {
+      "title": "Clarion Collection Hotel Atlantic",
+      "propertyCode": "NO025"
+  },
+  {
+      "title": "Clarion Collection Hotel Tollboden",
+      "propertyCode": "NO026"
+  },
+  {
+      "title": "Clarion Collection Hotel Amanda",
+      "propertyCode": "NO027"
+  },
+  {
+      "title": "Clarion Collection Hotel Hammer",
+      "propertyCode": "NO028"
+  },
+  {
+      "title": "Clarion Collection Hotel With",
+      "propertyCode": "NO029"
+  },
+  {
+      "title": "Clarion Collection Hotel Grand Olav",
+      "propertyCode": "NO032"
+  },
+  {
+      "title": "Quality Hotel Skjærgården",
+      "propertyCode": "NO034"
+  },
+  {
+      "title": "Clarion Hotel The Hub",
+      "propertyCode": "NO036"
+  },
+  {
+      "title": "Clarion Hotel Admiral ",
+      "propertyCode": "NO037"
+  },
+  {
+      "title": "Clarion Hotel Tyholmen ",
+      "propertyCode": "NO038"
+  },
+  {
+      "title": "Clarion Hotel Ernst ",
+      "propertyCode": "NO039"
+  },
+  {
+      "title": "Quality Hotel Olavsgaard",
+      "propertyCode": "NO040"
+  },
+  {
+      "title": "Clarion Collection Hotel Grand, Gjøvik",
+      "propertyCode": "NO047"
+  },
+  {
+      "title": "Quality Hotel Grand Farris",
+      "propertyCode": "NO048"
+  },
+  {
+      "title": "Quality Hotel Grand, Kongsberg",
+      "propertyCode": "NO052"
+  },
+  {
+      "title": "Quality Hotel Grand, Steinkjer",
+      "propertyCode": "NO053"
+  },
+  {
+      "title": "Quality Hotel Florø",
+      "propertyCode": "NO058"
+  },
+  {
+      "title": "Clarion Collection Hotel Savoy",
+      "propertyCode": "NO060"
+  },
+  {
+      "title": "Quality Hotel Sogndal",
+      "propertyCode": "NO062"
+  },
+  {
+      "title": "Clarion Collection Hotel Arcticus",
+      "propertyCode": "NO065"
+  },
+  {
+      "title": "Quality Hotel Saga",
+      "propertyCode": "NO067"
+  },
+  {
+      "title": "Comfort Hotel Kristiansand",
+      "propertyCode": "NO068"
+  },
+  {
+      "title": "Clarion Collection Hotel Astoria",
+      "propertyCode": "NO069"
+  },
+  {
+      "title": "Clarion Hotel & Congress Oslo Airport",
+      "propertyCode": "NO070"
+  },
+  {
+      "title": "Clarion Collection Hotel Grand Bodø",
+      "propertyCode": "NO073"
+  },
+  {
+      "title": "Comfort Hotel Fosna",
+      "propertyCode": "NO074"
+  },
+  {
+      "title": "Quality Hotel Leangkollen",
+      "propertyCode": "NO076"
+  },
+  {
+      "title": "Quality Hotel Sarpsborg",
+      "propertyCode": "NO078"
+  },
+  {
+      "title": "Clarion Hotel Stavanger",
+      "propertyCode": "NO079"
+  },
+  {
+      "title": "Clarion Collection Hotel Aurora",
+      "propertyCode": "NO086"
+  },
+  {
+      "title": "Quality Hotel Grand, Kristiansund",
+      "propertyCode": "NO089"
+  },
+  {
+      "title": "Clarion Collection Hotel Bryggeparken",
+      "propertyCode": "NO090"
+  },
+  {
+      "title": "Quality Hotel Tønsberg",
+      "propertyCode": "NO091"
+  },
+  {
+      "title": "Comfort Hotel Park",
+      "propertyCode": "NO092"
+  },
+  {
+      "title": "Clarion Collection Hotel Gabelshus",
+      "propertyCode": "NO094"
+  },
+  {
+      "title": "Clarion Collection Hotel Bastion",
+      "propertyCode": "NO096"
+  },
+  {
+      "title": "Clarion Collection Hotel Havnekontoret",
+      "propertyCode": "NO097"
+  },
+  {
+      "title": "Clarion Hotel Bergen Airport",
+      "propertyCode": "NO098"
+  },
+  {
+      "title": "Quality Hotel Grand Royal",
+      "propertyCode": "NO099"
+  },
+  {
+      "title": "Quality Hotel Ulstein",
+      "propertyCode": "NO101"
+  },
+  {
+      "title": "Quality Hotel 33",
+      "propertyCode": "NO103"
+  },
+  {
+      "title": "Comfort Hotel Xpress Youngstorget",
+      "propertyCode": "NO104"
+  },
+  {
+      "title": "Comfort Hotel Trondheim",
+      "propertyCode": "NO105"
+  },
+  {
+      "title": "Son Spa",
+      "propertyCode": "NO106"
+  },
+  {
+      "title": "Norefjell Ski & Spa",
+      "propertyCode": "NO107"
+  },
+  {
+      "title": "Comfort Hotel Victoria Florø",
+      "propertyCode": "NO110"
+  },
+  {
+      "title": "Clarion Collection Hotel Folketeateret",
+      "propertyCode": "NO111"
+  },
+  {
+      "title": "Comfort Hotel Runway",
+      "propertyCode": "NO113"
+  },
+  {
+      "title": "Comfort Hotel Square ",
+      "propertyCode": "NO114"
+  },
+  {
+      "title": "Comfort Hotel Union Brygge",
+      "propertyCode": "NO115"
+  },
+  {
+      "title": "Quality Hotel Fredrikstad",
+      "propertyCode": "NO117"
+  },
+  {
+      "title": "Quality Hotel Strand",
+      "propertyCode": "NO119"
+  },
+  {
+      "title": "Quality Hotel Waterfront Ålesund",
+      "propertyCode": "NO120"
+  },
+  {
+      "title": "Clarion Hotel & Congress Trondheim",
+      "propertyCode": "NO121"
+  },
+  {
+      "title": "Quality Hotel Expo",
+      "propertyCode": "NO122"
+  },
+  {
+      "title": "Comfort Hotel Grand Central",
+      "propertyCode": "NO123"
+  },
+  {
+      "title": "Clarion Collection Hotel Skagen Brygge",
+      "propertyCode": "NO124"
+  },
+  {
+      "title": "The Thief",
+      "propertyCode": "NO127"
+  },
+  {
+      "title": "Clarion Hotel Energy",
+      "propertyCode": "NO128"
+  },
+  {
+      "title": "Clarion Hotel The Edge",
+      "propertyCode": "NO129"
+  },
+  {
+      "title": "Hotel No. 13",
+      "propertyCode": "NO130"
+  },
+  {
+      "title": "Comfort Hotel Xpress Tromsø",
+      "propertyCode": "NO131"
+  },
+  {
+      "title": "Comfort Hotel Xpress Central Station",
+      "propertyCode": "NO132"
+  },
+  {
+      "title": "Comfort Hotel Karl Johan",
+      "propertyCode": "NO133"
+  },
+  {
+      "title": "Hotel Oleana",
+      "propertyCode": "NO135"
+  },
+  {
+      "title": "Christiania Teater",
+      "propertyCode": "NO136"
+  },
+  {
+      "title": "Clarion Collection Hotel Helma",
+      "propertyCode": "NO137"
+  },
+  {
+      "title": "Quality Hotel Pond",
+      "propertyCode": "NO138"
+  },
+  {
+      "title": "Clarion Hotel Air",
+      "propertyCode": "NO139"
+  },
+  {
+      "title": "Comfort Hotel Bergen Airport",
+      "propertyCode": "NO142"
+  },
+  {
+      "title": "Quality Hotel Skifer",
+      "propertyCode": "NO144"
+  },
+  {
+      "title": "Comfort Hotel Porsgrunn",
+      "propertyCode": "NO145"
+  },
+  {
+      "title": "Amerikalinjen",
+      "propertyCode": "NO147"
+  },
+  {
+      "title": "Clarion Hotel Oslo",
+      "propertyCode": "NO148"
+  },
+  {
+      "title": "Funken lodge",
+      "propertyCode": "NO149"
+  },
+  {
+      "title": "Clarion Collection Hotel Park",
+      "propertyCode": "NO150"
+  },
+  {
+      "title": "Quality Hotel Ålesund",
+      "propertyCode": "NO151"
+  },
+  {
+      "title": "Quality Hotel River Station",
+      "propertyCode": "NO152"
+  },
+  {
+      "title": "Hotel Miklagard",
+      "propertyCode": "NO153"
+  },
+  {
+      "title": "Sommerro",
+      "propertyCode": "NO154"
+  },
+  {
+      "title": "Quality Hotel Ramsalt",
+      "propertyCode": "NO156"
+  },
+  {
+      "title": "Quality Hotel Hasle Linie",
+      "propertyCode": "NO157"
+  },
+  {
+      "title": "Comfort Hotel Bodø",
+      "propertyCode": "NO158"
+  },
+  {
+      "title": "Clarion Hotel Bergen",
+      "propertyCode": "NO161"
+  },
+  {
+      "title": "Farris Bad",
+      "propertyCode": "NO902"
+  },
+  {
+      "title": "Quality Hotel Arlanda XPO",
+      "propertyCode": "SE007"
+  },
+  {
+      "title": "Clarion Collection Hotel Tapto",
+      "propertyCode": "SE018"
+  },
+  {
+      "title": "Clarion Collection Hotel Uman",
+      "propertyCode": "SE019"
+  },
+  {
+      "title": "Clarion Collection Hotel Fregatten",
+      "propertyCode": "SE020"
+  },
+  {
+      "title": "Clarion Collection Hotel Majoren",
+      "propertyCode": "SE021"
+  },
+  {
+      "title": "Clarion Collection Hotel Post",
+      "propertyCode": "SE022"
+  },
+  {
+      "title": "Clarion Collection Hotel Kompaniet",
+      "propertyCode": "SE023"
+  },
+  {
+      "title": "Clarion Collection Hotel Bilan",
+      "propertyCode": "SE024"
+  },
+  {
+      "title": "Clarion Collection Hotel Packhuset",
+      "propertyCode": "SE025"
+  },
+  {
+      "title": "Clarion Collection Hotel Victoria",
+      "propertyCode": "SE026"
+  },
+  {
+      "title": "Clarion Collection Hotel Bolinder Munktell",
+      "propertyCode": "SE027"
+  },
+  {
+      "title": "Quality Hotel Panorama",
+      "propertyCode": "SE028"
+  },
+  {
+      "title": "Comfort Hotel Malmö",
+      "propertyCode": "SE029"
+  },
+  {
+      "title": "Comfort Hotel Xpress Stockholm Central",
+      "propertyCode": "SE030"
+  },
+  {
+      "title": "Quality Hotel Grand, Kristianstad",
+      "propertyCode": "SE031"
+  },
+  {
+      "title": "Quality Hotel 11",
+      "propertyCode": "SE032"
+  },
+  {
+      "title": "Quality Hotel The Mill",
+      "propertyCode": "SE033"
+  },
+  {
+      "title": "Quality Hotel Ekoxen",
+      "propertyCode": "SE036"
+  },
+  {
+      "title": "Quality Hotel Globe",
+      "propertyCode": "SE040"
+  },
+  {
+      "title": "Stenungsbaden Yacht Club",
+      "propertyCode": "SE041"
+  },
+  {
+      "title": "Selma Spa+",
+      "propertyCode": "SE042"
+  },
+  {
+      "title": "Quality Hotel Winn Göteborg",
+      "propertyCode": "SE045"
+  },
+  {
+      "title": "Comfort Hotel Helsingborg",
+      "propertyCode": "SE046"
+  },
+  {
+      "title": "Quality Hotel Vänersborg",
+      "propertyCode": "SE047"
+  },
+  {
+      "title": "Clarion Collection Hotel Etage",
+      "propertyCode": "SE049"
+  },
+  {
+      "title": "Quality Hotel Galaxen",
+      "propertyCode": "SE050"
+  },
+  {
+      "title": "Quality Hotel Luleå",
+      "propertyCode": "SE052"
+  },
+  {
+      "title": "Clarion Collection Hotel Temperance",
+      "propertyCode": "SE056"
+  },
+  {
+      "title": "Clarion Collection Hotel Drott",
+      "propertyCode": "SE057"
+  },
+  {
+      "title": "Clarion Hotel Stockholm",
+      "propertyCode": "SE059"
+  },
+  {
+      "title": "Comfort Hotel Eskilstuna",
+      "propertyCode": "SE062"
+  },
+  {
+      "title": "Clarion Collection Hotel Wellington",
+      "propertyCode": "SE064"
+  },
+  {
+      "title": "Quality Hotel Prisma",
+      "propertyCode": "SE065"
+  },
+  {
+      "title": "Quality Hotel Park Södertälje",
+      "propertyCode": "SE066"
+  },
+  {
+      "title": "Clarion Collection Hotel Bristol",
+      "propertyCode": "SE069"
+  },
+  {
+      "title": "Clarion Collection Hotel Norre Park",
+      "propertyCode": "SE072"
+  },
+  {
+      "title": "Strömstad SPA & Resort",
+      "propertyCode": "SE073"
+  },
+  {
+      "title": "Clarion Collection Hotel Odin",
+      "propertyCode": "SE074"
+  },
+  {
+      "title": "Clarion Collection Hotel Grand Sundsvall",
+      "propertyCode": "SE076"
+  },
+  {
+      "title": "Comfort Hotel Jazz",
+      "propertyCode": "SE079"
+  },
+  {
+      "title": "Clarion Hotel Wisby",
+      "propertyCode": "SE080"
+  },
+  {
+      "title": "Clarion Hotel Sign",
+      "propertyCode": "SE081"
+  },
+  {
+      "title": "Clarion Grand Helsingborg",
+      "propertyCode": "SE082"
+  },
+  {
+      "title": "Clarion Collection Hotel Plaza",
+      "propertyCode": "SE083"
+  },
+  {
+      "title": "Clarion Hotel Örebro",
+      "propertyCode": "SE084"
+  },
+  {
+      "title": "Clarion Hotel Gillet",
+      "propertyCode": "SE085"
+  },
+  {
+      "title": "Comfort Hotel Jönköping",
+      "propertyCode": "SE086"
+  },
+  {
+      "title": "Clarion Hotel Grand Östersund",
+      "propertyCode": "SE087"
+  },
+  {
+      "title": "Clarion Collection Hotel Bergmästaren",
+      "propertyCode": "SE088"
+  },
+  {
+      "title": "Clarion Collection Hotel Carlscrona",
+      "propertyCode": "SE089"
+  },
+  {
+      "title": "Quality Hotel Winn, Haninge",
+      "propertyCode": "SE090"
+  },
+  {
+      "title": "Clarion Hotel Winn, Gävle",
+      "propertyCode": "SE091"
+  },
+  {
+      "title": "Clarion Collection Hotel Cardinal",
+      "propertyCode": "SE094"
+  },
+  {
+      "title": "Comfort Hotel Winn",
+      "propertyCode": "SE095"
+  },
+  {
+      "title": "Clarion Hotel Post",
+      "propertyCode": "SE099"
+  },
+  {
+      "title": "Quality Hotel Friends",
+      "propertyCode": "SE103"
+  },
+  {
+      "title": "Clarion Hotel Arlanda Airport",
+      "propertyCode": "SE104"
+  },
+  {
+      "title": "Clarion Collection Hotel Planetstaden",
+      "propertyCode": "SE105"
+  },
+  {
+      "title": "Clarion Hotel & Congress Live, Malmö",
+      "propertyCode": "SE107"
+  },
+  {
+      "title": "Quality Hotel Sundsvall",
+      "propertyCode": "SE108"
+  },
+  {
+      "title": "Quality Hotel View",
+      "propertyCode": "SE110"
+  },
+  {
+      "title": "Comfort Hotel Arctic Luleå",
+      "propertyCode": "SE111"
+  },
+  {
+      "title": "Quality Hotel Skellefteå Stadshotellet",
+      "propertyCode": "SE112"
+  },
+  {
+      "title": "Clarion Hotel Sense Luleå",
+      "propertyCode": "SE113"
+  },
+  {
+      "title": "Quality Hotel Bodensia",
+      "propertyCode": "SE114"
+  },
+  {
+      "title": "Clarion Hotel Amaranten",
+      "propertyCode": "SE115"
+  },
+  {
+      "title": "Comfort Hotel Norrköping",
+      "propertyCode": "SE117"
+  },
+  {
+      "title": "Clarion Collection Hotel Borgen",
+      "propertyCode": "SE118"
+  },
+  {
+      "title": "Quality Hotel Statt",
+      "propertyCode": "SE119"
+  },
+  {
+      "title": "At Six",
+      "propertyCode": "SE120"
+  },
+  {
+      "title": "Hobo",
+      "propertyCode": "SE121"
+  },
+  {
+      "title": "Frösö Park Hotel",
+      "propertyCode": "SE122"
+  },
+  {
+      "title": "Clarion Collection Hotel Kung Oscar",
+      "propertyCode": "SE123"
+  },
+  {
+      "title": "Comfort Hotel Göteborg",
+      "propertyCode": "SE125"
+  },
+  {
+      "title": "Quality Hotel Grand Borås",
+      "propertyCode": "SE126"
+  },
+  {
+      "title": "Avalon Hotel",
+      "propertyCode": "SE127"
+  },
+  {
+      "title": "Comfort Hotel Kista",
+      "propertyCode": "SE128"
+  },
+  {
+      "title": "Comfort Hotel Västerås",
+      "propertyCode": "SE129"
+  },
+  {
+      "title": "Quality Hotel Royal Corner",
+      "propertyCode": "SE130"
+  },
+  {
+      "title": "Clarion Hotel Sea U",
+      "propertyCode": "SE131"
+  },
+  {
+      "title": "Vox hotel",
+      "propertyCode": "SE132"
+  },
+  {
+      "title": "Comfort Hotel Arlanda Airport",
+      "propertyCode": "SE133"
+  },
+  {
+      "title": "Quality Hotel The Box",
+      "propertyCode": "SE134"
+  },
+  {
+      "title": "Comfort Hotel Umeå City",
+      "propertyCode": "SE135"
+  },
+  {
+      "title": "Clarion Collection Hotel Slottsparken",
+      "propertyCode": "SE136"
+  },
+  {
+      "title": "Clarion Collection Hotel Saga",
+      "propertyCode": "SE137"
+  },
+  {
+      "title": "Clarion Collection Hotel Magasinet",
+      "propertyCode": "SE138"
+  },
+  {
+      "title": "Clarion Collection Tapetfabriken",
+      "propertyCode": "SE139"
+  },
+  {
+      "title": "Comfort Hotel Solna",
+      "propertyCode": "SE140"
+  },
+  {
+      "title": "Clarion Hotel Sundsvall",
+      "propertyCode": "SE141"
+  },
+  {
+      "title": "Quality Hotel Waterfront",
+      "propertyCode": "SE143"
+  },
+  {
+      "title": "Quality Hotel The Weaver",
+      "propertyCode": "SE144"
+  },
+  {
+      "title": "Clarion Collection Hotel Mektagonen",
+      "propertyCode": "SE146"
+  },
+  {
+      "title": "ICEHOTEL",
+      "propertyCode": "SE150"
+  },
+  {
+      "title": "Clarion Collection Hotel Uppsala",
+      "propertyCode": "SE152"
+  },
+  {
+      "title": "Comfort Hotel City",
+      "propertyCode": "SE153"
+  },
+  {
+      "title": "Aronsborgs Konferenshotell",
+      "propertyCode": "SE901"
+  },
+  {
+      "title": "Yasuragi Hasseludden",
+      "propertyCode": "SE902"
+  },
+  {
+      "title": "Nordic Light",
+      "propertyCode": "SE903"
+  },
+  {
+      "title": "Copperhill Mountain Lodge",
+      "propertyCode": "SE905"
+  }
+]
