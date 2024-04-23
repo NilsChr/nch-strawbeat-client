@@ -26,17 +26,22 @@ const selectedItem = ref();
 const loading = ref<boolean>(false)
 
 const post = () => {
+
+  const payload =  JSON.stringify({ property: selectedItem.value.propertyCode });
+  console.log(payload)
   loading.value = true;
+        //https://strawbeat-server.onrender.com/event
   fetch('https://strawbeat-server.onrender.com/event', {
     method: 'POST',   // Specify the method
     headers: {
       // Content-Type may need to be specified, depending on the API
       'Content-Type': 'application/json'
     },
-    body: JSON.stringify({ property: selectedItem.value.propertyCode }) // Convert the JavaScript object to a JSON string
+    body: payload // Convert the JavaScript object to a JSON string
   })
     .then(response => {
       loading.value = false;
+      console.log('success')
     })  // Parsing the JSON response
     .catch((error) => {
       console.error('Error:', error);  // Handle errors
