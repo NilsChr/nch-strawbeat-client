@@ -5,6 +5,7 @@ export interface Marker {
   property: string;
   coords: number[];
   type: string;
+  source: string;
 }
 
 export type RootState = {
@@ -35,7 +36,7 @@ export const useMainStore = defineStore({
       let that = this;
       setTimeout(() => {
         that.markers = that.markers.filter((m) => m.id !== marker.id);
-      }, 4000);
+      }, 10000);
     },
     recalculate() {
       let out = [];
