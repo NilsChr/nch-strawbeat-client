@@ -8,7 +8,7 @@
 
       <div class="q-pa-lg"></div>
       <q-btn :loading="loading" size="lg" flat style="background-color: #fc5e58; border-radius: 0.75rem;"
-        :disable="selectedItem === null" @click="post">
+        :disabled="selectedItem == null" @click="post">
         Book a room!
       </q-btn>
 
@@ -26,7 +26,8 @@ const selectedItem = ref();
 const loading = ref<boolean>(false)
 
 const post = () => {
-
+  console.log('POSTING')
+  console.log(selectedItem.value)
   const payload =  JSON.stringify({ property: selectedItem.value.propertyCode });
   console.log(payload)
   loading.value = true;

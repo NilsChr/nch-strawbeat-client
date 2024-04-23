@@ -4,7 +4,7 @@ import { Marker, useMainStore } from "src/stores/mainStore";
 // please note that the types are reversed
 const urlTest = 'http://localhost:9999';
 const urlProd= 'https://strawbeat-server.onrender.com';
-const url = process.env.NODE_ENV === 'production' ? urlProd : urlTest;
+const url = urlProd//process.env.NODE_ENV === 'production' ? urlProd : urlTest;
 console.log("URL", url)
 const socket = io(url, {transports: ['websocket'], upgrade: false});
 
